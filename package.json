@@ -5,10 +5,12 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "semantic-ui-react": "latest",
+    "babel-jest": "24.9.0",
+    "jest": "24.9.0",
     "react": "16.8.6",
     "react-dom": "16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "semantic-ui-react": "latest"
   },
   "devDependencies": {
     "typescript": "3.3.3"
